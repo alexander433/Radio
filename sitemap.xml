@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://alexander433.com/index.html</loc>
+    <lastmod>2018-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://alexander433.com/images/r-crop-u110.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alexander433.com/images/logotipo-oficial-facebook-2014.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alexander433.com/images/soundcloud_socialnetwork_17421.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alexander433.com/images/07f0d7b69ef071571e4ada2f4d6a053a--cono-de-instagram-colorido-by-vexels.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alexander433.com/images/youtube_play_buttonsvg_.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://alexander433.com/images/a_a.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
