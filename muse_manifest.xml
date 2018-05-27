@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alexander433.com" resolutions="1x" timestamp="1527447350900">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alexander433.com" resolutions="1x" timestamp="1527447879832">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-p_g_-maestra.css" crc="383454261" ref="index"/>
@@ -13,11 +13,7 @@
     <file name="require.js" crc="4157109226" ref="phone>index:index"/>
   </folder>
   <folder name="images">
-    <file name="r676x380.png" crc="4231569230" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="logo.png" crc="210255073" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="riddim-med.png" crc="103711241" seo="true" ref="phone>index">
@@ -25,36 +21,34 @@
     </file>
     <file name="07f0d7b69ef071571e4ada2f4d6a053a--cono-de-instagram-colorido-by-vexels.png" crc="178861434" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="youtube_play_buttonsvg_.png" crc="4190676615" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="soundcloud_socialnetwork_17421.png" crc="4177482826" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="logotipo-oficial-facebook-2014.png" crc="252909582" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u668-6.png" crc="3811033922" ref="phone>index"/>
     <file name="planeta_tierra.png" crc="444120675" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="r-crop-u110.png" crc="4022284638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u710-6.png" crc="256125480" ref="index"/>
+    <file name="r.png" crc="66777515" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-p_g_-maestra.css" crc="193422107" ref="phone>index"/>
-      <file name="index.css" crc="3766985123" ref="phone>index"/>
+      <file name="master_a-p_g_-maestra.css" crc="3942065923" ref="phone>index"/>
+      <file name="index.css" crc="3946201225" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="192294130" seo="true" mt="1527446392410" redirect="true"/>
+    <file name="index.html" crc="3850629896" seo="true" mt="1527447763480" redirect="true"/>
   </folder>
   <file name="index.html" crc="4179063885" seo="true" mt="1527447188066" redirect="true"/>
 </manifest>
