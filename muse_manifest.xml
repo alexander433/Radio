@@ -1,36 +1,60 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alexander433.com" resolutions="1x" timestamp="1527316302329">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alexander433.com" resolutions="1x" timestamp="1527447350900">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-p_g_-maestra.css" crc="271571920" ref="index"/>
-    <file name="index.css" crc="118473778" ref="index"/>
+    <file name="master_a-p_g_-maestra.css" crc="383454261" ref="index"/>
+    <file name="index.css" crc="427620238" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:index"/>
   </folder>
   <folder name="images">
-    <file name="r-crop-u110.jpg" crc="4062650259" seo="true" ref="index">
+    <file name="r676x380.png" crc="4231569230" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logotipo-oficial-facebook-2014.png" crc="4058331290" seo="true" ref="index">
+    <file name="logo.png" crc="210255073" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="soundcloud_socialnetwork_17421.png" crc="77056094" seo="true" ref="index">
+    <file name="riddim-med.png" crc="103711241" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="07f0d7b69ef071571e4ada2f4d6a053a--cono-de-instagram-colorido-by-vexels.png" crc="340216683" seo="true" ref="index">
+    <file name="07f0d7b69ef071571e4ada2f4d6a053a--cono-de-instagram-colorido-by-vexels.png" crc="178861434" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="youtube_play_buttonsvg_.png" crc="262527416" seo="true" ref="index">
+    <file name="youtube_play_buttonsvg_.png" crc="4190676615" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a_a.png" crc="332464874" seo="true" ref="index">
+    <file name="soundcloud_socialnetwork_17421.png" crc="4177482826" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="logotipo-oficial-facebook-2014.png" crc="252909582" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u668-6.png" crc="3811033922" ref="phone>index"/>
+    <file name="planeta_tierra.png" crc="444120675" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r-crop-u110.png" crc="4022284638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u710-6.png" crc="256125480" ref="index"/>
   </folder>
-  <file name="index.html" crc="291597152" seo="true" mt="1527314261746" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="193422107" ref="phone>index"/>
+      <file name="index.css" crc="3766985123" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="192294130" seo="true" mt="1527446392410" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4179063885" seo="true" mt="1527447188066" redirect="true"/>
 </manifest>
